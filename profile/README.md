@@ -1,3 +1,5 @@
+[![Rosalana](https://raw.githubusercontent.com/rosalana/.github/main/rosalana_banner.png)](https://github.com/rosalana)
+
 # Rosalana Organization
 
 Welcome to the **Rosalana** GitHub organization!
