@@ -9,30 +9,13 @@ Rosalana is an ecosystem designed to enhance creativity and efficiency by connec
 Here are the key components of the Rosalana ecosystem:
 
 - **Rosalana: Social Network**  
-  A platform for creators to connect, share, and monetize their work.
+  A platform for creators to connect, share, and monetize their work. Combining features of social media and creative platforms, it allows users to publish stories, artworks, and other content. Monetization options include subscriptions, collections, or chapter-based releases. Additionally, creators can track their popularity and achieve milestones.
 
 - **Rosalana: Spectrum**  
-  An integrated information system for managing projects and data across the ecosystem.
+  A management tool focused on handling a company's administrative processes. Spectrum is designed for tasks like employee management (vacations, roles, internal communication), and automating administrative documents (contracts, payslips, and invoices) using predefined templates. It also includes a calendar for planning and organizing work. While Spectrum provides basic tools for initializing and managing tasks and projects, more detailed project tracking is handled by Blueprint. For example, Spectrum can log working hours and act as the starting point for creating more detailed projects in Blueprint.
 
-- **Blueprint**  
-  A platform for creating multi-step forms and improving agency-client collaboration.
-
-- **ProxyMA**  
-  A centralized CMS for managing content across websites efficiently.
-
-- **Rosalana: Premiere Studio**  
-  A tool for managing live events like film premieres.
-
-- **Studio Thousands**  
-  A creative studio producing mini short films and visual content.
-
-## Services and Tools
-
-- **Rosalana: Accounts**  
-  A shared user management service used across all applications.
-
-- **Rosalana: DEV**  
-  A CLI tool and composables library for developers working within the ecosystem.
+- **Rosalana: Blueprint**  
+  A platform for creating structured, multi-step workflows that improve collaboration between companies and clients. Blueprint simplifies team collaboration and tracks project progress, ensuring clear and transparent workflows. Its tools are tailored to help businesses create well-defined project plans and keep progress straightforward.
 
 ## Get Involved
 
