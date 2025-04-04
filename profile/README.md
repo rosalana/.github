@@ -11,8 +11,6 @@ Whether you're building internal tools, creative platforms, or full-stack apps �
 > ⚠️ **This ecosystem is currently in active development and not yet released for production. Use with caution.**  
 > We are preparing a stable release soon.
 
----
-
 ## 🚧 Applications
 
 Rosalana includes several apps that will be released gradually:
@@ -24,8 +22,6 @@ Rosalana includes several apps that will be released gradually:
 
 > Applications are not published yet — stay tuned!
 
----
-
 ## 📦 Packages
 
 We're building a collection of reusable Laravel packages to unify and simplify development across Rosalana projects:
@@ -36,8 +32,6 @@ We're building a collection of reusable Laravel packages to unify and simplify d
 
 All packages follow a unified versioning standard and can be managed using the Rosalana CLI.
 
----
-
 ## 🔧 Get Involved
 
 This organization hosts the source code, CLI tools, and documentation for the Rosalana ecosystem.
@@ -46,8 +40,6 @@ We welcome contributions!
 Feel free to open an issue, submit a pull request, or just explore the code.
 
 > 📌 Make sure to check individual repository README files for usage instructions and contribution guidelines.
-
----
 
 ## 🌐 Website
 
